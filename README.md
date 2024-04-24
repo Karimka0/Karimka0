@@ -1,6 +1,9 @@
 ### Hi there 👋
 I am Karim, and here i will share my university projects
 
+- 🌱 I’m currently learning С++ and Python
+- 🔭 I’m currently working on my MoneyManager App project
+
 ## My favorite tools and technologies ⚙️
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -15,8 +18,8 @@ I am Karim, and here i will share my university projects
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
