@@ -1,8 +1,11 @@
 ### Hi there 👋
 I am Karim, and here i will share my university projects
 
-- 🌱 I’m currently learning С++ and Python
+- 🌱 I’m currently learning С++, Pyhton and algoritms
 - 🔭 I’m currently working on my MoneyManager App project
+- 🤔 I’m intresting in ML, AI and Cryptograpthy
+- 📫 How to reach me: https://t.me/MazitovKarim
+
 
 ## My favorite tools and technologies ⚙️
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -12,6 +15,7 @@ I am Karim, and here i will share my university projects
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <!--
 **Karimka0/Karimka0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +27,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
