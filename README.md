@@ -1,9 +1,8 @@
 ### Hi there 👋
 I am Karim, and here i will share my university projects
 
-- 🌱 I’m currently learning С++, Pyhton and algoritms
+- 🌱 I’m currently learning С++, Python and algoritms
 - 🔭 I’m currently working on my MoneyManager App project
-- 🤔 I’m intresting in ML, AI and Cryptograpthy
 - 📫 How to reach me: https://t.me/MazitovKarim
 
 
