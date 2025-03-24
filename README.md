@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Karim, and here i will share my university projects
+I am Karim, and here i will share my university and pet-projects
 
 ## Technologies ⚙️
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
